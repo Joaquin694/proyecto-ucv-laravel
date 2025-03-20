@@ -22,10 +22,6 @@ class CreateProductoInvestigacionTable extends Migration
 
             $table->integer('anio_publicacion');
             $table->date('fecha_publicacion');
-            $table->integer('pagina_inicio')->nullable();
-            $table->integer('pagina_fin')->nullable();
-            $table->integer('pagina_total')->nullable();
-            $table->boolean('revisable')->default(false);
 
             $table->timestamps();
         });
