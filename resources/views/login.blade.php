@@ -15,7 +15,7 @@
         <img src="{{ asset('images/imagen3.jpg') }}" alt="Fondo 3">
     </div>
 
-    <!-- Contenido -->
+    <!-- HSADJAODFJJODFAEFKOAEKO -->
     <div class="content">
         <div class="login-container">
             <h1 class="login-title">Iniciar Sesión</h1>
